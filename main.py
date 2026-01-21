@@ -1,6 +1,6 @@
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-import datetime
-
+app = ApplicationBuilder().token(8288046195:AAFOlPFymRNJCyxgL5hE6XC4WdBiNitEYDQ).build()
+app.run_polling()
 # ========= CONFIG =========
 TOKEN = "8288046195:AAFOlPFymRNJCyxgL5hE6XC4WdBiNitEYDQ"
 
