@@ -114,7 +114,7 @@ async def etat(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ================== MAIN ==================
 def main():
-    app = ApplicationBuilder().token(TOKEN).build()
+    app = ApplicationBuilder().8288046195:AAH10NXXR2Nx9NESeFKv1AtFyy-K-h-4NL4.build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("parier", parier))
     app.add_handler(CommandHandler("ultra", ultra))
