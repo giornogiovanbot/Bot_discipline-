@@ -7,7 +7,7 @@ import os
 MISE_FIXE = 2000
 MISE_ULTRA = 500
 MAX_ULTRA_SEMAINE = 2
-TOKEN = os.environ.get("8288046195:AAFOlPFymRNJCyxgL5hE6XC4WdBiNitEYDQ")
+TOKEN = os.environ.get("8288046195:AAH10NXXR2Nx9NESeFKv1AtFyy-K-h-4NL4")
 
 # ================== DONNÉES ==================
 daily_bet = {}
